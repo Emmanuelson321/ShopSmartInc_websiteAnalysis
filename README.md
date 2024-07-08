@@ -7,8 +7,9 @@ This project aims to analyze data from ShopSmart Inc.'s website to understand cu
 
 ### Data source
 Data for the project will be sourced from ShopSmart Inc.'s website, encompassing customer IDs, device IDs, transaction details, product information, and timestamps of customer interactions.
-Questions to be answered
-The following below are the expected questions to be answered;
+
+### Questions to be answered
+Below are the expected questions to be answered;
 a. Visit Frequency:
 How often does this customer visit the website, based on the provided data? Can you identify any patterns or trends in the customer's visit frequency?
 
@@ -17,3 +18,6 @@ What is the customer's location based on the provided data? How might the custom
 
 c. Overall Purchase Behavior:
 Based on the data provided, what insights can you draw about this customer's overall behavior on the website? How might these insights inform marketing strategies or personalized recommendations for this customer?
+
+### Summary and Insight
+The following actionable insights were derived;
