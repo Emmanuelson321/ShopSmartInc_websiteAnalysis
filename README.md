@@ -7,7 +7,7 @@ This project aims to analyze data from ShopSmart Inc.'s website to understand cu
 
 ### Data source
 Data for the project will be sourced from ShopSmart Inc.'s website, encompassing customer IDs, device IDs, transaction details, product information, and timestamps of customer interactions.
-
+(ShopSmart_Inc)[https://github.com/Emmanuelson321/ShopSmartInc_websiteAnalysis/tree/main]
 ### Questions to be answered
 Below are the expected questions to be answered;
 a. Visit Frequency:
